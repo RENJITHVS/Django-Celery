@@ -52,4 +52,5 @@ celery -A django_celery worker -l info
 
 ```
 * log into the django admin to see the celery-task-result log.
+![result info](./img/result.png)
 
